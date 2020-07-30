@@ -1,0 +1,9 @@
+# .gitignore：忽略git提交的一个文件，配置之后提交时将不会加载忽略的文件
+*~
+.DS_Store
+.idea
+node_modules/
+dist/
+npm-debug.log
+selenium-debug.log
+package-lock.json
